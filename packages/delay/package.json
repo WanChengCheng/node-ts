@@ -3,6 +3,7 @@
   "version": "1.0.1",
   "description": "Resolve with the given value after the given time.",
   "author": "Wan Cheng Cheng <chengcheng.st@gmail.com>",
+  "main": "build/index.js",
   "homepage": "",
   "license": "ISC",
   "publishConfig": {
