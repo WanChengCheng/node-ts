@@ -1,0 +1,22 @@
+{
+  "name": "@chengchengw/delay",
+  "version": "1.0.0",
+  "description": "Resolve with the given value after the given time.",
+  "author": "Wan Cheng Cheng <chengcheng.st@gmail.com>",
+  "homepage": "",
+  "license": "ISC",
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "build": "tsc",
+    "test": "jest"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@types/jest": "^24.0.23",
+    "jest": "^24.9.0",
+    "ts-jest": "^24.2.0",
+    "typescript": "^3.7.3"
+  }
+}
