@@ -3,7 +3,7 @@
  * File Created: Wednesday, 11th December 2019 5:11:21 pm
  * Author: ChengCheng Wan <chengcheng.st@gmail.com>
  */
-import {delay} from '.';
+import {delay} from '..';
 
 describe('delay test', () => {
     it('should resolve as expected', async () => {
